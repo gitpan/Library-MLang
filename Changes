@@ -1,0 +1,15 @@
+Revision history for Perl extension Library::MLang.
+
+0.01  Wed Nov 29 14:35:49 2000
+	- original version; created by h2xs 1.19
+
+0.02  Thu Jan  4 20:46:22 2001
+	- changed name to be included on Library modules
+
+0.03  Fri Jan  5 22:32:43 2001
+	- bug-fixes on 'get' functions
+	- languages function
+	- str and print methods for [...] interpolation
+
+0.04  Fri Jan 19 17:37:43 2001
+	- version corrected for CVS
